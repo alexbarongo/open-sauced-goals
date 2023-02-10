@@ -1,128 +1,146 @@
 [
   {
+    "full_name": "nvim-lualine/lualine.nvim",
+    "stargazers_count": 3305,
+    "open_issues_count": 84,
+    "forks_count": 345
+  },
+  {
+    "full_name": "LunarVim/LunarVim",
+    "stargazers_count": 13114,
+    "open_issues_count": 49,
+    "forks_count": 1398
+  },
+  {
+    "full_name": "github/copilot.vim",
+    "stargazers_count": 4165,
+    "open_issues_count": 0,
+    "forks_count": 157
+  },
+  {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 41092,
-    "open_issues_count": 918,
-    "forks_count": 3452
+    "stargazers_count": 41277,
+    "open_issues_count": 926,
+    "forks_count": 3470
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 265605,
-    "open_issues_count": 40,
-    "forks_count": 53669
+    "stargazers_count": 266108,
+    "open_issues_count": 39,
+    "forks_count": 53733
   },
   {
     "full_name": "vuejs/vue",
-    "stargazers_count": 202185,
-    "open_issues_count": 614,
-    "forks_count": 33308
+    "stargazers_count": 202234,
+    "open_issues_count": 616,
+    "forks_count": 33316
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 51691,
-    "open_issues_count": 15,
-    "forks_count": 7391
+    "stargazers_count": 51768,
+    "open_issues_count": 18,
+    "forks_count": 7397
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 839,
+    "stargazers_count": 840,
     "open_issues_count": 9,
-    "forks_count": 514
+    "forks_count": 518
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 89768,
-    "open_issues_count": 37,
-    "forks_count": 12653
+    "stargazers_count": 90225,
+    "open_issues_count": 38,
+    "forks_count": 12722
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 107439,
+    "stargazers_count": 107537,
     "open_issues_count": 0,
     "forks_count": 11144
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 360737,
-    "open_issues_count": 191,
-    "forks_count": 30953
+    "stargazers_count": 360933,
+    "open_issues_count": 196,
+    "forks_count": 30967
   },
   {
     "full_name": "sudheerj/javascript-interview-questions",
-    "stargazers_count": 14054,
+    "stargazers_count": 14189,
     "open_issues_count": 2,
-    "forks_count": 4178
+    "forks_count": 4211
   },
   {
     "full_name": "bradtraversy/50projects50days",
-    "stargazers_count": 25548,
+    "stargazers_count": 25714,
     "open_issues_count": 56,
-    "forks_count": 6791
+    "forks_count": 6838
   },
   {
     "full_name": "elsewhencode/project-guidelines",
-    "stargazers_count": 28483,
+    "stargazers_count": 28493,
     "open_issues_count": 13,
     "forks_count": 3254
   },
   {
     "full_name": "leonardomso/33-js-concepts",
-    "stargazers_count": 54838,
-    "open_issues_count": 71,
-    "forks_count": 7643
+    "stargazers_count": 54884,
+    "open_issues_count": 72,
+    "forks_count": 7649
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 52172,
+    "stargazers_count": 52255,
     "open_issues_count": 6,
-    "forks_count": 7382
+    "forks_count": 7403
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 79168,
+    "stargazers_count": 79274,
     "open_issues_count": 75,
-    "forks_count": 10703
+    "forks_count": 10719
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 131377,
+    "stargazers_count": 131450,
     "open_issues_count": 157,
-    "forks_count": 24910
+    "forks_count": 24917
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 162632,
-    "open_issues_count": 288,
-    "forks_count": 26898
+    "stargazers_count": 162818,
+    "open_issues_count": 287,
+    "forks_count": 26931
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 26590,
-    "open_issues_count": 122,
-    "forks_count": 1254
+    "stargazers_count": 26836,
+    "open_issues_count": 87,
+    "forks_count": 1268
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 133604,
+    "stargazers_count": 134298,
     "open_issues_count": 16,
-    "forks_count": 17401
+    "forks_count": 17458
   },
   {
     "full_name": "tensorflow/tensorflow",
-    "stargazers_count": 170945,
-    "open_issues_count": 2312,
-    "forks_count": 87730
+    "stargazers_count": 171048,
+    "open_issues_count": 2294,
+    "forks_count": 87756
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 201598,
-    "open_issues_count": 1181,
-    "forks_count": 41915
+    "stargazers_count": 201731,
+    "open_issues_count": 1169,
+    "forks_count": 41952
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 88288,
-    "open_issues_count": 6070,
-    "forks_count": 11449
+    "stargazers_count": 88372,
+    "open_issues_count": 6103,
+    "forks_count": 11453
   }
 ]
