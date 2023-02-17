@@ -1,146 +1,182 @@
 [
   {
+    "full_name": "alexbarongo/chrome-extension",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "alexbarongo/block-breaker",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "alexbarongo/challenge",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "alexbarongo/multistep-form",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "alexbarongo/emacs-setup",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "LunarVim/Neovim-from-scratch",
+    "stargazers_count": 4304,
+    "open_issues_count": 94,
+    "forks_count": 1074
+  },
+  {
+    "full_name": "ohmyzsh/ohmyzsh",
+    "stargazers_count": 155417,
+    "open_issues_count": 657,
+    "forks_count": 24982
+  },
+  {
     "full_name": "nvim-lualine/lualine.nvim",
-    "stargazers_count": 3322,
-    "open_issues_count": 89,
-    "forks_count": 348
+    "stargazers_count": 3348,
+    "open_issues_count": 94,
+    "forks_count": 349
   },
   {
     "full_name": "LunarVim/LunarVim",
-    "stargazers_count": 13155,
-    "open_issues_count": 52,
-    "forks_count": 1401
+    "stargazers_count": 13209,
+    "open_issues_count": 49,
+    "forks_count": 1402
   },
   {
     "full_name": "github/copilot.vim",
-    "stargazers_count": 4199,
+    "stargazers_count": 4233,
     "open_issues_count": 0,
-    "forks_count": 159
+    "forks_count": 161
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 41458,
-    "open_issues_count": 941,
-    "forks_count": 3488
+    "stargazers_count": 41637,
+    "open_issues_count": 946,
+    "forks_count": 3505
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 266702,
-    "open_issues_count": 39,
-    "forks_count": 53793
+    "stargazers_count": 267281,
+    "open_issues_count": 40,
+    "forks_count": 53853
   },
   {
     "full_name": "vuejs/vue",
-    "stargazers_count": 202289,
+    "stargazers_count": 202353,
     "open_issues_count": 616,
-    "forks_count": 33337
+    "forks_count": 33339
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 51892,
-    "open_issues_count": 18,
-    "forks_count": 7428
+    "stargazers_count": 52026,
+    "open_issues_count": 10,
+    "forks_count": 7452
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 840,
     "open_issues_count": 9,
-    "forks_count": 523
+    "forks_count": 529
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 90596,
-    "open_issues_count": 37,
-    "forks_count": 12770
+    "stargazers_count": 90961,
+    "open_issues_count": 38,
+    "forks_count": 12812
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 107649,
+    "stargazers_count": 107771,
     "open_issues_count": 0,
-    "forks_count": 11152
+    "forks_count": 11156
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 361179,
-    "open_issues_count": 204,
-    "forks_count": 31002
+    "stargazers_count": 361361,
+    "open_issues_count": 221,
+    "forks_count": 31031
   },
   {
     "full_name": "sudheerj/javascript-interview-questions",
-    "stargazers_count": 14289,
+    "stargazers_count": 14353,
     "open_issues_count": 2,
-    "forks_count": 4230
+    "forks_count": 4245
   },
   {
     "full_name": "bradtraversy/50projects50days",
-    "stargazers_count": 25856,
+    "stargazers_count": 25989,
     "open_issues_count": 56,
-    "forks_count": 6876
+    "forks_count": 6907
   },
   {
     "full_name": "elsewhencode/project-guidelines",
-    "stargazers_count": 28505,
+    "stargazers_count": 28513,
     "open_issues_count": 13,
-    "forks_count": 3255
+    "forks_count": 3253
   },
   {
     "full_name": "leonardomso/33-js-concepts",
-    "stargazers_count": 54978,
+    "stargazers_count": 55017,
     "open_issues_count": 72,
-    "forks_count": 7659
+    "forks_count": 7661
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 52338,
+    "stargazers_count": 52452,
     "open_issues_count": 6,
-    "forks_count": 7407
+    "forks_count": 7427
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 79369,
+    "stargazers_count": 79509,
     "open_issues_count": 74,
-    "forks_count": 10728
+    "forks_count": 10758
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 131532,
-    "open_issues_count": 157,
-    "forks_count": 24933
+    "stargazers_count": 131585,
+    "open_issues_count": 158,
+    "forks_count": 24951
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 163051,
+    "stargazers_count": 163275,
     "open_issues_count": 287,
-    "forks_count": 26952
+    "forks_count": 26978
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 27060,
-    "open_issues_count": 101,
-    "forks_count": 1283
+    "stargazers_count": 27220,
+    "open_issues_count": 102,
+    "forks_count": 1295
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 134728,
+    "stargazers_count": 134916,
     "open_issues_count": 15,
-    "forks_count": 17491
+    "forks_count": 17514
   },
   {
     "full_name": "tensorflow/tensorflow",
-    "stargazers_count": 171165,
-    "open_issues_count": 2307,
-    "forks_count": 87781
+    "stargazers_count": 171276,
+    "open_issues_count": 2295,
+    "forks_count": 87806
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 202102,
-    "open_issues_count": 1170,
-    "forks_count": 42002
-  },
-  {
-    "full_name": "microsoft/TypeScript",
-    "stargazers_count": 88472,
-    "open_issues_count": 6105,
-    "forks_count": 11465
+    "stargazers_count": 202358,
+    "open_issues_count": 1182,
+    "forks_count": 42043
   }
 ]
