@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "drakfire86/MyThemes",
+    "stargazers_count": 15,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "prasanthrangan/hyprdots",
+    "stargazers_count": 130,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
+    "full_name": "MeledoJames/awesome-setup",
+    "stargazers_count": 97,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "liamrahum/wayland-dotfiles",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "camilof99/dotfiles-awesome",
     "stargazers_count": 23,
     "open_issues_count": 0,
@@ -7,63 +31,63 @@
   },
   {
     "full_name": "WillPower3309/awesome-dotfiles",
-    "stargazers_count": 955,
+    "stargazers_count": 958,
     "open_issues_count": 17,
     "forks_count": 64
   },
   {
     "full_name": "saimoomedits/dotfiles",
-    "stargazers_count": 863,
+    "stargazers_count": 867,
     "open_issues_count": 11,
     "forks_count": 49
   },
   {
     "full_name": "maximbaz/dotfiles",
-    "stargazers_count": 711,
+    "stargazers_count": 712,
     "open_issues_count": 2,
-    "forks_count": 86
+    "forks_count": 87
   },
   {
     "full_name": "ericmurphyxyz/dotfiles",
-    "stargazers_count": 267,
+    "stargazers_count": 272,
     "open_issues_count": 3,
     "forks_count": 68
   },
   {
     "full_name": "ART3MISTICAL/dotfiles",
-    "stargazers_count": 161,
+    "stargazers_count": 168,
     "open_issues_count": 0,
     "forks_count": 16
   },
   {
     "full_name": "alacritty/alacritty",
-    "stargazers_count": 46150,
-    "open_issues_count": 328,
-    "forks_count": 2749
+    "stargazers_count": 46226,
+    "open_issues_count": 333,
+    "forks_count": 2750
   },
   {
     "full_name": "rust-lang/book",
-    "stargazers_count": 12025,
-    "open_issues_count": 288,
-    "forks_count": 2832
+    "stargazers_count": 12042,
+    "open_issues_count": 293,
+    "forks_count": 2854
   },
   {
     "full_name": "ldelossa/nvim-ide",
-    "stargazers_count": 645,
+    "stargazers_count": 648,
     "open_issues_count": 16,
     "forks_count": 26
   },
   {
     "full_name": "romkatv/powerlevel10k",
-    "stargazers_count": 35676,
+    "stargazers_count": 35757,
     "open_issues_count": 33,
-    "forks_count": 1891
+    "forks_count": 1893
   },
   {
     "full_name": "gpakosz/.tmux",
-    "stargazers_count": 18948,
-    "open_issues_count": 28,
-    "forks_count": 3071
+    "stargazers_count": 18978,
+    "open_issues_count": 29,
+    "forks_count": 3073
   },
   {
     "full_name": "alexbarongo/chrome-extension",
@@ -97,86 +121,62 @@
   },
   {
     "full_name": "LunarVim/Neovim-from-scratch",
-    "stargazers_count": 4532,
+    "stargazers_count": 4543,
     "open_issues_count": 90,
-    "forks_count": 1134
+    "forks_count": 1136
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 157873,
-    "open_issues_count": 614,
-    "forks_count": 25167
+    "stargazers_count": 158043,
+    "open_issues_count": 612,
+    "forks_count": 25182
   },
   {
     "full_name": "nvim-lualine/lualine.nvim",
-    "stargazers_count": 3691,
-    "open_issues_count": 99,
-    "forks_count": 380
+    "stargazers_count": 3715,
+    "open_issues_count": 98,
+    "forks_count": 381
   },
   {
     "full_name": "LunarVim/LunarVim",
-    "stargazers_count": 14060,
-    "open_issues_count": 71,
-    "forks_count": 1449
+    "stargazers_count": 14153,
+    "open_issues_count": 72,
+    "forks_count": 1457
   },
   {
     "full_name": "github/copilot.vim",
-    "stargazers_count": 5132,
+    "stargazers_count": 5183,
     "open_issues_count": 2,
-    "forks_count": 189
+    "forks_count": 194
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 46763,
-    "open_issues_count": 1018,
-    "forks_count": 3925
+    "stargazers_count": 46959,
+    "open_issues_count": 1022,
+    "forks_count": 3947
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 276765,
-    "open_issues_count": 40,
-    "forks_count": 54852
+    "stargazers_count": 277128,
+    "open_issues_count": 39,
+    "forks_count": 54895
   },
   {
     "full_name": "vuejs/vue",
-    "stargazers_count": 203233,
+    "stargazers_count": 203277,
     "open_issues_count": 633,
-    "forks_count": 33621
+    "forks_count": 33617
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 54715,
+    "stargazers_count": 54842,
     "open_issues_count": 15,
-    "forks_count": 7787
+    "forks_count": 7796
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 863,
+    "stargazers_count": 866,
     "open_issues_count": 9,
-    "forks_count": 592
-  },
-  {
-    "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 99273,
-    "open_issues_count": 33,
-    "forks_count": 13919
-  },
-  {
-    "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 110652,
-    "open_issues_count": 0,
-    "forks_count": 11417
-  },
-  {
-    "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 364708,
-    "open_issues_count": 184,
-    "forks_count": 31720
-  },
-  {
-    "full_name": "sudheerj/javascript-interview-questions",
-    "stargazers_count": 15560,
-    "open_issues_count": 2,
-    "forks_count": 4546
+    "forks_count": 598
   }
 ]
