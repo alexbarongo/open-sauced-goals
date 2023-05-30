@@ -1,9 +1,9 @@
 [
   {
     "full_name": "neovim/neovim",
-    "stargazers_count": 66163,
-    "open_issues_count": 1711,
-    "forks_count": 4658
+    "stargazers_count": 66260,
+    "open_issues_count": 1707,
+    "forks_count": 4663
   },
   {
     "full_name": "joepigott/dots",
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "CRAG666/code_runner.nvim",
-    "stargazers_count": 340,
+    "stargazers_count": 343,
     "open_issues_count": 12,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "tmux-plugins/list",
-    "stargazers_count": 554,
+    "stargazers_count": 558,
     "open_issues_count": 0,
     "forks_count": 30
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "hyprwm/Hyprland",
-    "stargazers_count": 8695,
-    "open_issues_count": 314,
-    "forks_count": 301
+    "stargazers_count": 8815,
+    "open_issues_count": 326,
+    "forks_count": 307
   },
   {
     "full_name": "drakfire86/MyThemes",
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "prasanthrangan/hyprdots",
-    "stargazers_count": 265,
+    "stargazers_count": 280,
     "open_issues_count": 1,
-    "forks_count": 24
+    "forks_count": 26
   },
   {
     "full_name": "MeledoJames/awesome-setup",
-    "stargazers_count": 109,
+    "stargazers_count": 110,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -67,63 +67,63 @@
   },
   {
     "full_name": "WillPower3309/awesome-dotfiles",
-    "stargazers_count": 981,
+    "stargazers_count": 984,
     "open_issues_count": 17,
     "forks_count": 69
   },
   {
     "full_name": "saimoomedits/dotfiles",
-    "stargazers_count": 889,
+    "stargazers_count": 890,
     "open_issues_count": 11,
     "forks_count": 49
   },
   {
     "full_name": "maximbaz/dotfiles",
-    "stargazers_count": 729,
+    "stargazers_count": 732,
     "open_issues_count": 2,
-    "forks_count": 87
+    "forks_count": 88
   },
   {
     "full_name": "ericmurphyxyz/dotfiles",
-    "stargazers_count": 300,
+    "stargazers_count": 301,
     "open_issues_count": 3,
     "forks_count": 67
   },
   {
     "full_name": "ART3MISTICAL/dotfiles",
-    "stargazers_count": 181,
+    "stargazers_count": 182,
     "open_issues_count": 0,
     "forks_count": 18
   },
   {
     "full_name": "alacritty/alacritty",
-    "stargazers_count": 46827,
-    "open_issues_count": 342,
-    "forks_count": 2776
+    "stargazers_count": 46914,
+    "open_issues_count": 343,
+    "forks_count": 2773
   },
   {
     "full_name": "rust-lang/book",
-    "stargazers_count": 12291,
-    "open_issues_count": 320,
-    "forks_count": 2905
+    "stargazers_count": 12307,
+    "open_issues_count": 324,
+    "forks_count": 2910
   },
   {
     "full_name": "ldelossa/nvim-ide",
-    "stargazers_count": 660,
+    "stargazers_count": 659,
     "open_issues_count": 18,
     "forks_count": 27
   },
   {
     "full_name": "romkatv/powerlevel10k",
-    "stargazers_count": 36376,
-    "open_issues_count": 37,
+    "stargazers_count": 36434,
+    "open_issues_count": 35,
     "forks_count": 1919
   },
   {
     "full_name": "gpakosz/.tmux",
-    "stargazers_count": 19220,
+    "stargazers_count": 19243,
     "open_issues_count": 34,
-    "forks_count": 3103
+    "forks_count": 3109
   },
   {
     "full_name": "alexbarongo/chrome-extension",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "LunarVim/Neovim-from-scratch",
-    "stargazers_count": 4626,
+    "stargazers_count": 4635,
     "open_issues_count": 92,
-    "forks_count": 1149
+    "forks_count": 1147
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 159209,
-    "open_issues_count": 620,
-    "forks_count": 25276
+    "stargazers_count": 159331,
+    "open_issues_count": 618,
+    "forks_count": 25283
   },
   {
     "full_name": "nvim-lualine/lualine.nvim",
-    "stargazers_count": 3867,
+    "stargazers_count": 3881,
     "open_issues_count": 117,
-    "forks_count": 387
+    "forks_count": 388
   },
   {
     "full_name": "LunarVim/LunarVim",
-    "stargazers_count": 14711,
-    "open_issues_count": 69,
+    "stargazers_count": 14775,
+    "open_issues_count": 70,
     "forks_count": 1471
   }
 ]
