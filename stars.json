@@ -1,21 +1,21 @@
 [
   {
     "full_name": "sunface/rust-by-practice",
-    "stargazers_count": 12310,
+    "stargazers_count": 12324,
     "open_issues_count": 74,
     "forks_count": 989
   },
   {
     "full_name": "TheAlgorithms/Rust",
-    "stargazers_count": 22904,
+    "stargazers_count": 22915,
     "open_issues_count": 6,
-    "forks_count": 2236
+    "forks_count": 2237
   },
   {
     "full_name": "neovim/neovim",
-    "stargazers_count": 83592,
-    "open_issues_count": 1845,
-    "forks_count": 5713
+    "stargazers_count": 83701,
+    "open_issues_count": 1850,
+    "forks_count": 5717
   },
   {
     "full_name": "joepigott/dots",
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "CRAG666/code_runner.nvim",
-    "stargazers_count": 539,
+    "stargazers_count": 541,
     "open_issues_count": 14,
     "forks_count": 34
   },
   {
     "full_name": "tmux-plugins/list",
-    "stargazers_count": 1265,
+    "stargazers_count": 1266,
     "open_issues_count": 7,
     "forks_count": 66
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "hyprwm/Hyprland",
-    "stargazers_count": 21836,
-    "open_issues_count": 1130,
-    "forks_count": 908
+    "stargazers_count": 21885,
+    "open_issues_count": 1134,
+    "forks_count": 911
   },
   {
     "full_name": "drakfire86/MyThemes",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "prasanthrangan/hyprdots",
-    "stargazers_count": 7625,
-    "open_issues_count": 89,
-    "forks_count": 892
+    "stargazers_count": 7662,
+    "open_issues_count": 92,
+    "forks_count": 898
   },
   {
     "full_name": "mel-edo/awesome-setup",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "saimoomedits/dotfiles",
-    "stargazers_count": 1114,
+    "stargazers_count": 1116,
     "open_issues_count": 12,
-    "forks_count": 47
+    "forks_count": 46
   },
   {
     "full_name": "maximbaz/dotfiles",
@@ -105,19 +105,19 @@
     "full_name": "devansharora18/dotfiles",
     "stargazers_count": 393,
     "open_issues_count": 0,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "alacritty/alacritty",
-    "stargazers_count": 56608,
-    "open_issues_count": 330,
-    "forks_count": 3033
+    "stargazers_count": 56644,
+    "open_issues_count": 329,
+    "forks_count": 3030
   },
   {
     "full_name": "rust-lang/book",
-    "stargazers_count": 15262,
-    "open_issues_count": 219,
-    "forks_count": 3434
+    "stargazers_count": 15281,
+    "open_issues_count": 205,
+    "forks_count": 3435
   },
   {
     "full_name": "ldelossa/nvim-ide",
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "romkatv/powerlevel10k",
-    "stargazers_count": 46685,
+    "stargazers_count": 46719,
     "open_issues_count": 78,
-    "forks_count": 2196
+    "forks_count": 2200
   },
   {
     "full_name": "gpakosz/.tmux",
-    "stargazers_count": 22107,
-    "open_issues_count": 29,
-    "forks_count": 3373
+    "stargazers_count": 22124,
+    "open_issues_count": 27,
+    "forks_count": 3374
   },
   {
     "full_name": "alexbarongo/chrome-extension",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "LunarVim/Neovim-from-scratch",
-    "stargazers_count": 5433,
+    "stargazers_count": 5434,
     "open_issues_count": 80,
     "forks_count": 1162
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 174186,
+    "stargazers_count": 174263,
     "open_issues_count": 424,
-    "forks_count": 25919
+    "forks_count": 25926
   }
 ]
