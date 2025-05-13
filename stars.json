@@ -1,21 +1,21 @@
 [
   {
     "full_name": "sunface/rust-by-practice",
-    "stargazers_count": 12909,
+    "stargazers_count": 12932,
     "open_issues_count": 46,
-    "forks_count": 1056
+    "forks_count": 1058
   },
   {
     "full_name": "TheAlgorithms/Rust",
-    "stargazers_count": 23872,
+    "stargazers_count": 23885,
     "open_issues_count": 7,
     "forks_count": 2383
   },
   {
     "full_name": "neovim/neovim",
-    "stargazers_count": 89343,
-    "open_issues_count": 1934,
-    "forks_count": 6069
+    "stargazers_count": 89462,
+    "open_issues_count": 1941,
+    "forks_count": 6077
   },
   {
     "full_name": "joepigott/dots",
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "CRAG666/code_runner.nvim",
-    "stargazers_count": 598,
-    "open_issues_count": 10,
+    "stargazers_count": 600,
+    "open_issues_count": 8,
     "forks_count": 33
   },
   {
     "full_name": "tmux-plugins/list",
-    "stargazers_count": 1458,
+    "stargazers_count": 1462,
     "open_issues_count": 2,
     "forks_count": 70
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "hyprwm/Hyprland",
-    "stargazers_count": 25185,
-    "open_issues_count": 47,
-    "forks_count": 1076
+    "stargazers_count": 25305,
+    "open_issues_count": 48,
+    "forks_count": 1077
   },
   {
     "full_name": "drakfire86/MyThemes",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "prasanthrangan/hyprdots",
-    "stargazers_count": 8654,
+    "stargazers_count": 8652,
     "open_issues_count": 89,
-    "forks_count": 937
+    "forks_count": 935
   },
   {
     "full_name": "mel-edo/awesome-setup",
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "WillPower3309/awesome-dotfiles",
-    "stargazers_count": 1235,
+    "stargazers_count": 1239,
     "open_issues_count": 17,
     "forks_count": 69
   },
   {
     "full_name": "saimoomedits/dotfiles",
-    "stargazers_count": 1144,
+    "stargazers_count": 1147,
     "open_issues_count": 12,
     "forks_count": 41
   },
@@ -87,7 +87,7 @@
     "full_name": "maximbaz/dotfiles",
     "stargazers_count": 1005,
     "open_issues_count": 0,
-    "forks_count": 100
+    "forks_count": 101
   },
   {
     "full_name": "ericmurphyxyz/dotfiles",
@@ -97,39 +97,39 @@
   },
   {
     "full_name": "devansharora18/dotfiles",
-    "stargazers_count": 403,
+    "stargazers_count": 404,
     "open_issues_count": 1,
     "forks_count": 27
   },
   {
     "full_name": "alacritty/alacritty",
-    "stargazers_count": 58744,
-    "open_issues_count": 333,
-    "forks_count": 3107
+    "stargazers_count": 58795,
+    "open_issues_count": 334,
+    "forks_count": 3108
   },
   {
     "full_name": "rust-lang/book",
-    "stargazers_count": 16075,
-    "open_issues_count": 208,
-    "forks_count": 3616
+    "stargazers_count": 16086,
+    "open_issues_count": 211,
+    "forks_count": 3618
   },
   {
     "full_name": "ldelossa/nvim-ide",
-    "stargazers_count": 855,
+    "stargazers_count": 853,
     "open_issues_count": 13,
     "forks_count": 28
   },
   {
     "full_name": "romkatv/powerlevel10k",
-    "stargazers_count": 49151,
-    "open_issues_count": 104,
-    "forks_count": 2283
+    "stargazers_count": 49210,
+    "open_issues_count": 105,
+    "forks_count": 2286
   },
   {
     "full_name": "gpakosz/.tmux",
-    "stargazers_count": 22935,
-    "open_issues_count": 20,
-    "forks_count": 3574
+    "stargazers_count": 22963,
+    "open_issues_count": 21,
+    "forks_count": 3753
   },
   {
     "full_name": "alexbarongo/chrome-extension",
@@ -165,18 +165,18 @@
     "full_name": "LunarVim/Neovim-from-scratch",
     "stargazers_count": 5521,
     "open_issues_count": 80,
-    "forks_count": 1155
+    "forks_count": 1153
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 178235,
+    "stargazers_count": 178382,
     "open_issues_count": 480,
     "forks_count": 26064
   },
   {
     "full_name": "nvim-lualine/lualine.nvim",
-    "stargazers_count": 6970,
-    "open_issues_count": 237,
-    "forks_count": 496
+    "stargazers_count": 6985,
+    "open_issues_count": 241,
+    "forks_count": 500
   }
 ]
